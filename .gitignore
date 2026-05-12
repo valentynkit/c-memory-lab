@@ -1,0 +1,19 @@
+# Compiled binaries
+*.o
+*.out
+*.dSYM/
+
+# OS files
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Build artifacts (binaries built by Makefile from *.c)
+huge_mmap
+vmmap_dump
+layout
+main
+main_1_1
