@@ -18,3 +18,4 @@ layout
 main
 alloc_sizes
 header_peek
+no_shrink
